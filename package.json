@@ -1,5 +1,5 @@
 {
-  "name": "03-ignews",
+  "name": "ignews",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,7 +13,8 @@
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^4.11.0",
-    "sass": "^1.69.5"
+    "sass": "^1.69.5",
+    "stripe": "^14.3.0"
   },
   "devDependencies": {
     "@types/node": "^20.8.10",
